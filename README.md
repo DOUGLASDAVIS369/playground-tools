@@ -1,4 +1,4 @@
-# WordPress Playground tools
+## WordPress Playground tools
 
 This repository contains the tools and applications built using [WordPress Playground](https://developer.wordpress.org/playground/):
 
